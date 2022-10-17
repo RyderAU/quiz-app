@@ -1,0 +1,2 @@
+- Please ensure that the frontend and backend end are running on separate terminals before running yarn test.
+- yarn test will run the component tests using Jest and Enzyme and then it will run the UI testing which uses Cypress

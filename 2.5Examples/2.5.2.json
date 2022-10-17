@@ -1,0 +1,81 @@
+{
+    "name": "hello",
+    "thumbnail": null,
+    "thumbnailType": "jpeg",
+    "questions": [
+        {
+            "question": "Question (multiple choice)",
+            "questionType": "multipleChoice", 
+            "points": 2,
+            "timeLimit": 30,
+            "questionResource": "",
+            "questionVideo": "",
+            "questionImage": "",
+            "questionImageType": "",
+            "answers": [
+                {
+                    "answer": "answer 1",
+                    "correct": false
+                },
+                {
+                    "answer": "answer 2",
+                    "correct": true
+                },
+                {
+                    "answer": "answer 3",
+                    "correct": false
+                },
+                {
+                    "answer": "",
+                    "correct": false
+                },
+                {
+                    "answer": "",
+                    "correct": false
+                },
+                {
+                    "answer": "",
+                    "correct": false
+                }
+            ]
+
+        },
+        {
+            "question": "second question (single choice)",
+            "questionType": "singleChoice", 
+            "points": 2,
+            "timeLimit": 30,
+            "questionResource": "",
+            "questionVideo": "",
+            "questionImage": "",
+            "questionImageType": "",
+            "answers": [
+                {
+                    "answer": "false",
+                    "correct": false
+                },
+                {
+                    "answer": "correct",
+                    "correct": true
+                },
+                {
+                    "answer": "false again",
+                    "correct": false
+                },
+                {
+                    "answer": "",
+                    "correct": false
+                },
+                {
+                    "answer": "",
+                    "correct": false
+                },
+                {
+                    "answer": "",
+                    "correct": false
+                }
+            ]
+
+        }
+    ]
+}

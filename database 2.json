@@ -1,0 +1,11 @@
+{
+  "admins": {
+    "Joe@mail": {
+      "name": "Joe",
+      "password": "Joepassword",
+      "sessionActive": true
+    }
+  },
+  "quizzes": {},
+  "sessions": {}
+}
